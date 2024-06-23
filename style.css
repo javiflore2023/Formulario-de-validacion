@@ -1,0 +1,42 @@
+h1{
+    color: #080808;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    background-color: rgb(101, 205, 167);
+}
+form{
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: #bdd8dc;
+    padding: 20px;
+    border-radius: 9px;
+}
+
+.f-input{
+    padding: 10px;
+    border-radius: 3px;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 95%;
+}
+.container{
+    padding: 10px;
+    margin-bottom: 3px;
+    background-color: rgb(41, 232, 127);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 3px;
+    
+}
+label{
+    text-align: justify;
+    display: block;
+    margin-bottom: 3px;
+    font-size: 17px;
+
+}
